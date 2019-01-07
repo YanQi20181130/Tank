@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <shell_menu>
+    <shell id="0">
+      <id>0</id>
+      <name>name0</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <damageRange>100</damageRange>
+      <level>0</level> <easeType>0</easeType><lunchTime>1.5</lunchTime> 
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+
+    </shell>
+    <shell id="1">
+      <id>1</id>
+      <name>name1</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>20</maxDis>
+      <damageRange>100</damageRange>
+      <level>0</level> <easeType>1</easeType><lunchTime>1.5</lunchTime> 
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="2">
+      <id>2</id>
+      <name>name2</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>25</maxDis>
+      <damageRange>100</damageRange>
+      <level>0</level> <easeType>2</easeType><lunchTime>1.5</lunchTime>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="3">
+      <id>3</id>
+      <name>name3</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>3</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>1</bulletCount>
+    </shell>
+    <shell id="4">
+      <id>4</id>
+      <name>name4</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>20</maxDis>
+      <level>0</level> <easeType>4</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>1</bulletCount>
+    </shell>
+    <shell id="5">
+      <id>5</id>
+      <name>name5</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>25</maxDis>
+      <level>0</level> <easeType>5</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>1</bulletCount>
+    </shell>
+    <shell id="6">
+      <id>6</id>
+      <name>name6</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>20</maxDis>
+      <level>0</level> <easeType>6</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>1</bulletCount>
+    </shell>
+    <shell id="7">
+      <id>7</id>
+      <name>name7</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>7</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>1</bulletCount>
+    </shell>
+    <shell id="8">
+      <id>8</id>
+      <name>name8</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>8</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>1</bulletCount>
+    </shell>
+    <shell id="9">
+      <id>9</id>
+      <name>name9</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>9</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>1</bulletCount>
+    </shell>
+    <shell id="10">
+      <id>10</id>
+      <name>name10</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>10</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>1</bulletCount>
+    </shell>
+    <shell id="11">
+      <id>11</id>
+      <name>name11</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>11</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="12">
+      <id>12</id>
+      <name>name12</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>12</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="13">
+      <id>13</id>
+      <name>name13</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>13</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="14">
+      <id>14</id>
+      <name>name14</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="15">
+      <id>15</id>
+      <name>name15</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="16">
+      <id>16</id>
+      <name>name16</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="17">
+      <id>17</id>
+      <name>name17</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="18">
+      <id>18</id>
+      <name>name18</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="19">
+      <id>19</id>
+      <name>name19</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="20">
+      <id>20</id>
+      <name>name20</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="21">
+      <id>21</id>
+      <name>name21</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="22">
+      <id>22</id>
+      <name>name22</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="23">
+      <id>23</id>
+      <name>name23</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="24">
+      <id>24</id>
+      <name>name24</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="25">
+      <id>25</id>
+      <name>name25</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="26">
+      <id>26</id>
+      <name>name26</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="27">
+      <id>27</id>
+      <name>name27</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="28">
+      <id>28</id>
+      <name>name28</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="29">
+      <id>29</id>
+      <name>name29</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="30">
+      <id>30</id>
+      <name>name30</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="31">
+      <id>31</id>
+      <name>name0</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="32">
+      <id>32</id>
+      <name>name0</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="33">
+      <id>33</id>
+      <name>name0</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="34">
+      <id>34</id>
+      <name>name0</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="35">
+      <id>35</id>
+      <name>name0</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="36">
+      <id>36</id>
+      <name>name36</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="37">
+      <id>37</id>
+      <name>name37</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="38">
+      <id>38</id>
+      <name>name38</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="39">
+      <id>39</id>
+      <name>name39</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="40">
+      <id>40</id>
+      <name>name40</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+    <shell id="41">
+      <id>41</id>
+      <name>name41</name>
+      <level_Price>400_450_500_550_600</level_Price>
+      <level_Damage>100_150_200_250_300_350</level_Damage>
+      <minDis>15</minDis>
+      <maxDis>30</maxDis>
+      <level>0</level> <easeType>22</easeType><lunchTime>1</lunchTime>
+      <damageRange>100</damageRange>
+      <ExperienceValue>0</ExperienceValue><pathNum>3</pathNum><bulletCount>3</bulletCount>
+    </shell>
+  </shell_menu>
+</root>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <hero_menu>
+    <hero id="1000">
+      <id>0</id>
+      <name>name0</name>
+      <level>4</level>
+      <price>0</price>
+      <gas>500</gas>
+      <hp>650</hp>
+      <shellID>0_1_2_3_4_5</shellID>
+      <unlock>1</unlock>
+      <ExperienceValue>0</ExperienceValue>
+    </hero>
+  </hero_menu>
+</root>

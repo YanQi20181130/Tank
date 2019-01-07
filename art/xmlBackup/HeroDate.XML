@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <hero_menu>
+    <hero id="0">
+      <id>0</id>
+      <name>name0</name>
+      <level>0</level>
+      <price>0</price>
+      <gas>500</gas>
+      <hp>650</hp>
+      <shellID>0_1_2_3_4_5</shellID>
+      <unlock>1</unlock>
+      <ExperienceValue>0</ExperienceValue>
+    </hero>
+    <hero id="1">
+      <id>1</id>
+      <name>name1</name>
+      <level>0</level>
+      <price>300</price>
+      <gas>500</gas>
+      <hp>680</hp>
+      <shellID>6_7_8_9_10_11</shellID>
+      <unlock>0</unlock>
+      <ExperienceValue>0</ExperienceValue>
+    </hero>
+    <hero id="2">
+      <id>2</id>
+      <name>name2</name>
+      <level>0</level>
+      <price>400</price>
+      <gas>520</gas>
+      <hp>690</hp>
+      <shellID>12_13_14_15_16_17</shellID>
+      <unlock>0</unlock>
+      <ExperienceValue>0</ExperienceValue>
+    </hero>
+    <hero id="3">
+      <id>3</id>
+      <name>name3</name>
+      <level>0</level>
+      <price>500</price>
+      <gas>550</gas>
+      <hp>680</hp>
+      <shellID>18_19_20_21_22_23</shellID>
+      <unlock>0</unlock>
+      <ExperienceValue>0</ExperienceValue>
+    </hero>
+    <hero id="4">
+      <id>4</id>
+      <name>name4</name>
+      <level>0</level>
+      <price>550</price>
+      <gas>560</gas>
+      <hp>690</hp>
+      <shellID>24_25_26_27_28_29</shellID>
+      <unlock>0</unlock>
+      <ExperienceValue>0</ExperienceValue>
+    </hero>
+    <hero id="5">
+      <id>5</id>
+      <name>name5</name>
+      <level>0</level>
+      <price>800</price>
+      <gas>600</gas>
+      <hp>700</hp>
+      <shellID>30_31_32_33_34_35</shellID>
+      <unlock>0</unlock>
+      <ExperienceValue>0</ExperienceValue>
+    </hero>
+    <hero id="6">
+      <id>6</id>
+      <name>name6</name>
+      <level>0</level>
+      <price>1000</price>
+      <gas>600</gas>
+      <hp>720</hp>
+      <shellID>36_37_38_39_40_41</shellID>
+      <unlock>0</unlock>
+      <ExperienceValue>0</ExperienceValue>
+    </hero>
+  </hero_menu>
+  
+  
+  <env_menu>
+    <env id="0">
+      <id>0</id>
+      <name>Ruined City</name>
+      <Price>0</Price>
+      <stoneRange>1_3</stoneRange>
+      <coinRange>10_20</coinRange>
+      <unlockLevel>0</unlockLevel>
+      <unlock>1</unlock>
+    </env>
+    <env id="1">
+      <id>1</id>
+      <name>Passionate Desert</name>
+      <Price>5000</Price>
+      <stoneRange>2_4</stoneRange>
+      <coinRange>20_30</coinRange>
+      <unlockLevel>5</unlockLevel>
+      <unlock>0</unlock>
+    </env>
+    <env id="2">
+      <id>2</id>
+      <name>A World of Ice And Snow</name>
+      <Price>80000</Price>
+      <stoneRange>3_5</stoneRange>
+      <coinRange>30_40</coinRange>
+      <unlockLevel>10</unlockLevel>
+      <unlock>0</unlock>
+    </env>
+  </env_menu>
+  
+  
+  <story_menu>
+    <story id="0">
+      <id>0</id>
+      <name>You vs Computer</name>
+      <canSelectScene>1</canSelectScene>
+    </story>
+    <story id="1">
+      <id>1</id>
+      <name>You vs Friend</name>
+      <canSelectScene>1</canSelectScene>
+    </story>
+    <story id="2">
+      <id>2</id>
+      <name>Tournaments</name>
+      <canSelectScene>1</canSelectScene>
+    </story>
+  </story_menu>
+</root>
