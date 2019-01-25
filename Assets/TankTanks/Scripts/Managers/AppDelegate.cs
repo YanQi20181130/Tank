@@ -192,4 +192,11 @@ public class AppDelegate :Singleton<AppDelegate>
     {
         if (ActiveAIEvent != null) { ActiveAIEvent(target); }
     }
+
+    public delegate void HitPaintMeshDele(MeshCollider meshCollider,Vector3 point);
+    public static event HitPaintMeshDele hitPaintMeshDeleEvent;
+    public void OnHitPaintMesh(MeshCollider meshCollider,Vector3 point)
+    {
+        if (hitPaintMeshDeleEvent != null) { hitPaintMeshDeleEvent(meshCollider,point); }
+    }
 }

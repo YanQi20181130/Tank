@@ -56,11 +56,22 @@ public class EnvControl : MonoBehaviour {
         HeroSpawnPos = heroSpawnPoslist[_id_hero];
         EnemySpawnPos = enemySpawnPoslist[_id_enemy];
 
-
+        //InitTiles();
     }
-	
+	/*
+    private void InitTiles()
+    {
+        Transform oripos = transform.Find("Plane/base/oripos");
+
+        Transform parent = transform.Find("Plane");
+
+        GameObject tile = Resources.Load("prefabs/Env/Tiles/"+ GameProperty.ENVID+"/"+ "Tile_"+ GameProperty.ENVID) as GameObject;
+
+        TileGridManager.Instance.SetTiles(10, 10, tile, oripos.position, parent);
+    }
 	// Update is called once per frame
 	void Update () {
 		
 	}
+    */
 }
